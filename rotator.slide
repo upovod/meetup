@@ -130,7 +130,7 @@ levchenko@youlamedia.com
 
 * Утилиты
 
-- `pprof` (http/pprof)
+- `pprof` (`net/http/pprof`)
 - `go`build`-race`
 - `yandex.tank`
 - `graphite`
@@ -140,7 +140,7 @@ levchenko@youlamedia.com
 * Утилиты
 
 - `gcvis`
-.image scvg.png
+.image scvg.png 500 _
 
 * Бессердечный продакшн
 
